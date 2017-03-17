@@ -1,0 +1,15 @@
+{
+  "name": "demaxiya",
+  "short_name": "lalala",
+  "display": "standalone",
+  "short_url": "/",
+  "theme_color": "#8888ff",
+  "background_color": "#aaaaff",
+  "icons": [
+    {
+      "src": "icon.jpg",
+      "sizes": "256x256",
+      "type": "image/jpg"
+    }
+  ]
+}
